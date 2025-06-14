@@ -1,9 +1,8 @@
 title: Muhammad Riyan Athariq
 email: riiyanathrq@gmail.com
 description: >-
-  Backend Engineer | Golang Enthusiast | API Builder | Cloud Dev | Data-driven
+  Software Engineer | Backend Engineer | Golang | API | Cloud
 url: "https://github.com/riyanathariq/portofolio"
 
 theme: jekyll-theme-minimal
-
-google_analytics: G-XXXXXXXXXX # (optional) your GA tracking ID
+logo: ./assets/profpic_circ.png

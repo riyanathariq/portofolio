@@ -1,3 +1,10 @@
+---
+layout: default
+title: My CV
+permalink: /
+---
+
+
 # Muhammad Riyan Athariq
 
 

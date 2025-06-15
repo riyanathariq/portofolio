@@ -4,5 +4,5 @@ description: >-
   Software Engineer | Backend Engineer | Golang | API | Cloud
 url: "https://github.com/riyanathariq/portofolio"
 
-theme: jekyll-theme-minimal
 logo: ./assets/profpic_circ.png
+markdown: kramdown
